@@ -1,0 +1,56 @@
+.navbar{
+    background-color: black;
+}
+
+p{
+    text-indent: 50px;
+}
+.hi{
+    background-color: palevioletred;
+}
+
+
+.navbar>a{
+    color: rgb(229, 243, 255);
+}
+
+.MFOOTER{
+    background-color: darkslategray; 
+    
+}
+#menu {
+    align-items: center;
+   
+}
+.pic {
+    
+    justify-content: center;
+}
+.box{
+    display: grid;
+    
+}
+.boxitem1{
+    align-items: center;
+    grid-row: 1;
+    grid-column: 1;
+}
+.boxitem2{
+    grid-row: 1;
+    grid-column: 2;
+}
+div>img{
+    width: 500px;
+}
+
+/* .img1{
+    width: 500px;
+   
+}
+.img2{
+    width: 500px;
+
+} */
+footer>p{
+    color: white;
+}
